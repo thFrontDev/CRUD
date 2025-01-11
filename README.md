@@ -26,3 +26,16 @@ delete - можно удалить один из постов / все пост�
 
 ---
 ## Скриншоты
+
+![image](https://github.com/user-attachments/assets/449a7e95-1f9a-45c1-b9d3-e379c7342102)
+![image](https://github.com/user-attachments/assets/50921c1a-8313-4417-b59f-0fa0e8cdc6e5)
+![image](https://github.com/user-attachments/assets/1a4ac5ba-c8f8-404e-8118-e916304aee09)
+![image](https://github.com/user-attachments/assets/5b27e359-1387-480a-bd1c-9f64b1469c80)
+
+Хранение данных в local storage:
+
+![image](https://github.com/user-attachments/assets/1557f745-266f-4866-98fa-49f5b8c58856)
+![image](https://github.com/user-attachments/assets/44e67a58-ff18-47dd-87d2-96141e7b7983)
+
+
+
