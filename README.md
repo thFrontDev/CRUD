@@ -5,7 +5,7 @@ Vite, React (functional components), TS, react-hook-form, обычные HTML и
 
 
 ## Запуск
-1. Склонировать репозиторий (```git clone https://github.com/clue1essdev/CRUD```)
+1. Склонировать репозиторий (```https://github.com/thFrontDev/CRUD```)
 2. cd к папке проекта, ```npm i``` внутри папки проекта для установки зависимостей
 3. npm run dev для запуска приложения. По дефолту будет доступно по url ```http://localhost:5173/```
 ___
